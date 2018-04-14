@@ -1,5 +1,0 @@
-TransferToBankModal 
-================= 
-### Description 
-undefined 
-### Properties 

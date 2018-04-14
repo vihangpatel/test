@@ -1,5 +1,0 @@
-OrderSummaryActionTypes 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-VenueListingActionTypes 
-================= 
-### Description 
-undefined 
-### Properties 

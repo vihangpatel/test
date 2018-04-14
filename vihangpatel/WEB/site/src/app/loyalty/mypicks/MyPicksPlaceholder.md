@@ -1,5 +1,0 @@
-MyPicksPlaceholder 
-================= 
-### Description 
-undefined 
-### Properties 

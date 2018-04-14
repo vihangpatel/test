@@ -1,5 +1,0 @@
-ListOfInvites 
-================= 
-### Description 
-undefined 
-### Properties 

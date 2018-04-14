@@ -1,5 +1,0 @@
-SearchStore 
-================= 
-### Description 
-undefined 
-### Properties 

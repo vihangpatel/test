@@ -1,5 +1,0 @@
-DialogModal 
-================= 
-### Description 
-undefined 
-### Properties 

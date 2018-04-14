@@ -1,5 +1,0 @@
-LinkAccount 
-================= 
-### Description 
-undefined 
-### Properties 

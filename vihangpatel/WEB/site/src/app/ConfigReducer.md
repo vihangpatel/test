@@ -1,5 +1,0 @@
-ConfigReducer 
-================= 
-### Description 
-undefined 
-### Properties 

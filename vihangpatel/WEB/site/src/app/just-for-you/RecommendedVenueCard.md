@@ -1,5 +1,0 @@
-RecommendedVenueCard 
-================= 
-### Description 
-undefined 
-### Properties 

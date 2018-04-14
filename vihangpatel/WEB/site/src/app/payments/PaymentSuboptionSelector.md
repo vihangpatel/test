@@ -1,5 +1,0 @@
-PaymentSuboptionSelector 
-================= 
-### Description 
-undefined 
-### Properties 

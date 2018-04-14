@@ -1,5 +1,0 @@
-ConfirmationCard 
-================= 
-### Description 
-undefined 
-### Properties 

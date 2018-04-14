@@ -1,5 +1,0 @@
-OnboardingActionCreators 
-================= 
-### Description 
-undefined 
-### Properties 

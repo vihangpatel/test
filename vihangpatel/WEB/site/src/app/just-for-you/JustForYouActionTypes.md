@@ -1,5 +1,0 @@
-JustForYouActionTypes 
-================= 
-### Description 
-undefined 
-### Properties 

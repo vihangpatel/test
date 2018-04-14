@@ -1,5 +1,0 @@
-WalletToWalletTransferForm 
-================= 
-### Description 
-undefined 
-### Properties 

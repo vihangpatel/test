@@ -1,5 +1,0 @@
-TicketCancellationBreakUp 
-================= 
-### Description 
-undefined 
-### Properties 

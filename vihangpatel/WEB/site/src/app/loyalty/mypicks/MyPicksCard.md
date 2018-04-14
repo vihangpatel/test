@@ -1,5 +1,0 @@
-MyPicksCard 
-================= 
-### Description 
-undefined 
-### Properties 

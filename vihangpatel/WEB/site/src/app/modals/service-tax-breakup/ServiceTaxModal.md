@@ -1,5 +1,0 @@
-ServiceTaxModal 
-================= 
-### Description 
-undefined 
-### Properties 

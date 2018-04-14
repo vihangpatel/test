@@ -1,5 +1,0 @@
-LanguageBanner 
-================= 
-### Description 
-undefined 
-### Properties 

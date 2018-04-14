@@ -1,5 +1,0 @@
-AddFCExtWalletOption 
-================= 
-### Description 
-undefined 
-### Properties 

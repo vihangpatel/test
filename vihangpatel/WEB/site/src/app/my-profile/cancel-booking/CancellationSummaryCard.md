@@ -1,5 +1,0 @@
-CancellationSummaryCard 
-================= 
-### Description 
-undefined 
-### Properties 

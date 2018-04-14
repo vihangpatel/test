@@ -1,5 +1,0 @@
-ShowtimesStrip 
-================= 
-### Description 
-undefined 
-### Properties 

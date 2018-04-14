@@ -1,5 +1,0 @@
-CashReceiver 
-================= 
-### Description 
-undefined 
-### Properties 

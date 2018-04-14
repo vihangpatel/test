@@ -1,5 +1,0 @@
-CookiesActionTypes 
-================= 
-### Description 
-undefined 
-### Properties 

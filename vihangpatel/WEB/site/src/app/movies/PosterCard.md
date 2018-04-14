@@ -1,5 +1,0 @@
-PosterCard 
-================= 
-### Description 
-undefined 
-### Properties 

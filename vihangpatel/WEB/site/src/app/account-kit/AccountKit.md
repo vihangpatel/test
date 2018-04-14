@@ -1,5 +1,0 @@
-AccountKit 
-================= 
-### Description 
-undefined 
-### Properties 

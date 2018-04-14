@@ -1,5 +1,0 @@
-ShowtimesAction 
-================= 
-### Description 
-undefined 
-### Properties 

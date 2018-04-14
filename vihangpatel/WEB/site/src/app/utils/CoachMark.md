@@ -1,5 +1,0 @@
-CoachMark 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-ExtWalletsModal 
-================= 
-### Description 
-undefined 
-### Properties 

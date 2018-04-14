@@ -1,5 +1,0 @@
-SeatSelectorModal 
-================= 
-### Description 
-undefined 
-### Properties 

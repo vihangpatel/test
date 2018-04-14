@@ -1,5 +1,0 @@
-RecommendedMovieCard 
-================= 
-### Description 
-undefined 
-### Properties 

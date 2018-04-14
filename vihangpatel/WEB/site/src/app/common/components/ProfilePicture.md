@@ -1,5 +1,0 @@
-ProfilePicture 
-================= 
-### Description 
-undefined 
-### Properties 

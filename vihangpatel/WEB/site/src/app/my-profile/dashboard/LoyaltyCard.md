@@ -1,5 +1,0 @@
-LoyaltyCard 
-================= 
-### Description 
-undefined 
-### Properties 

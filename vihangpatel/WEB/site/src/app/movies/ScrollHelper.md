@@ -1,5 +1,0 @@
-ScrollHelper 
-================= 
-### Description 
-undefined 
-### Properties 

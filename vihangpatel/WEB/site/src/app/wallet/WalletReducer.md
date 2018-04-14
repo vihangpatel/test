@@ -1,5 +1,0 @@
-WalletReducer 
-================= 
-### Description 
-undefined 
-### Properties 

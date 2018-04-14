@@ -1,5 +1,0 @@
-ExternalWalletList 
-================= 
-### Description 
-undefined 
-### Properties 

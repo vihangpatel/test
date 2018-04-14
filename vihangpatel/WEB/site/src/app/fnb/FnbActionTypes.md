@@ -1,5 +1,0 @@
-FnbActionTypes 
-================= 
-### Description 
-undefined 
-### Properties 

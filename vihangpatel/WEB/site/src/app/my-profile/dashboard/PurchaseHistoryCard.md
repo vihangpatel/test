@@ -1,5 +1,0 @@
-PurchaseHistoryCard 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-ConfirmationReducer 
-================= 
-### Description 
-undefined 
-### Properties 

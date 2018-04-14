@@ -1,5 +1,0 @@
-SeatSelectorConstants 
-================= 
-### Description 
-undefined 
-### Properties 

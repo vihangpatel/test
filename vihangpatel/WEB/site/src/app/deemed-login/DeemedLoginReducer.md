@@ -1,5 +1,0 @@
-DeemedLoginReducer 
-================= 
-### Description 
-undefined 
-### Properties 

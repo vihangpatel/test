@@ -1,5 +1,0 @@
-DateBar 
-================= 
-### Description 
-undefined 
-### Properties 

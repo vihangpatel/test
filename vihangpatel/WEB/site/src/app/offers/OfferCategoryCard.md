@@ -1,5 +1,0 @@
-OfferCategoryCard 
-================= 
-### Description 
-undefined 
-### Properties 

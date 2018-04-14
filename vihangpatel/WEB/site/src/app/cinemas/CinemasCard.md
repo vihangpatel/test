@@ -1,5 +1,0 @@
-CinemasCard 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-OnboardingActionTypes 
-================= 
-### Description 
-undefined 
-### Properties 

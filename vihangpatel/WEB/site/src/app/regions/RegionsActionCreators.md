@@ -1,5 +1,0 @@
-RegionsActionCreators 
-================= 
-### Description 
-undefined 
-### Properties 

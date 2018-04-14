@@ -1,5 +1,0 @@
-TimeCategories 
-================= 
-### Description 
-undefined 
-### Properties 

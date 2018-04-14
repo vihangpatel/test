@@ -1,5 +1,0 @@
-CinemasContainer 
-================= 
-### Description 
-undefined 
-### Properties 

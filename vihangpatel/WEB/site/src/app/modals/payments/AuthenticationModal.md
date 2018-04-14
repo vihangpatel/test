@@ -1,5 +1,0 @@
-AuthenticationModal 
-================= 
-### Description 
-undefined 
-### Properties 

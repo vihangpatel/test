@@ -1,5 +1,0 @@
-OneClickBookingModal 
-================= 
-### Description 
-undefined 
-### Properties 

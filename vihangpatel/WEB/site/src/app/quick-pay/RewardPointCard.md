@@ -1,5 +1,0 @@
-RewardPointCard 
-================= 
-### Description 
-undefined 
-### Properties 

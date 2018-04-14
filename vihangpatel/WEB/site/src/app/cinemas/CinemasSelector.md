@@ -1,5 +1,0 @@
-CinemasSelector 
-================= 
-### Description 
-undefined 
-### Properties 

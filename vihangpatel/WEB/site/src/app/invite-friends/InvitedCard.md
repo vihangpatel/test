@@ -1,5 +1,0 @@
-InvitedCard 
-================= 
-### Description 
-undefined 
-### Properties 

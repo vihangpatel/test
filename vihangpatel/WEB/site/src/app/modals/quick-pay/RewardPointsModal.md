@@ -1,5 +1,0 @@
-RewardPointsModal 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-TicketTypeModal 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-PayCancelButton 
-================= 
-### Description 
-undefined 
-### Properties 

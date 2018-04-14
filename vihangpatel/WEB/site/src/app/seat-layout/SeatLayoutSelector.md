@@ -1,5 +1,0 @@
-SeatLayoutSelector 
-================= 
-### Description 
-undefined 
-### Properties 

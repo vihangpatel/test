@@ -1,5 +1,0 @@
-SelectQuickPayOption 
-================= 
-### Description 
-undefined 
-### Properties 

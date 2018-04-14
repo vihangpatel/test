@@ -1,5 +1,0 @@
-SocialActivationCard 
-================= 
-### Description 
-undefined 
-### Properties 

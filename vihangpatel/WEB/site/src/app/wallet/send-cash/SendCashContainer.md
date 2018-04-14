@@ -1,5 +1,0 @@
-SendCashContainer 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-MoviesActionTypes 
-================= 
-### Description 
-undefined 
-### Properties 

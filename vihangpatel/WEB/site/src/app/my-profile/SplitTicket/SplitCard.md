@@ -1,5 +1,0 @@
-SplitCard 
-================= 
-### Description 
-undefined 
-### Properties 

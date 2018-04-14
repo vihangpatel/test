@@ -1,5 +1,0 @@
-OffersCategorySelector 
-================= 
-### Description 
-undefined 
-### Properties 

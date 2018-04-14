@@ -1,5 +1,0 @@
-PayLaterMessage 
-================= 
-### Description 
-undefined 
-### Properties 

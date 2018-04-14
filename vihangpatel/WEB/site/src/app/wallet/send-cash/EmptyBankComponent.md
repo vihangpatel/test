@@ -1,5 +1,0 @@
-EmptyBankComponent 
-================= 
-### Description 
-undefined 
-### Properties 

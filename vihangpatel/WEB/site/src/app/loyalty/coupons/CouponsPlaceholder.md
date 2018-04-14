@@ -1,5 +1,0 @@
-CouponsPlaceholder 
-================= 
-### Description 
-undefined 
-### Properties 

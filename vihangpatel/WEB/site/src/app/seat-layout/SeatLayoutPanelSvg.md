@@ -1,5 +1,0 @@
-SeatLayoutPanelSvg 
-================= 
-### Description 
-undefined 
-### Properties 

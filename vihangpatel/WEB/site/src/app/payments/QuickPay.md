@@ -1,5 +1,0 @@
-QuickPay 
-================= 
-### Description 
-undefined 
-### Properties 

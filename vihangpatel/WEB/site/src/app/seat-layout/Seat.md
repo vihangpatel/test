@@ -1,5 +1,0 @@
-Seat 
-================= 
-### Description 
-undefined 
-### Properties 

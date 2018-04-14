@@ -1,5 +1,0 @@
-VenueSearch 
-================= 
-### Description 
-undefined 
-### Properties 

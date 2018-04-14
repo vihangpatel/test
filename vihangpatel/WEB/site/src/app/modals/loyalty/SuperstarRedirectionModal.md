@@ -1,5 +1,0 @@
-SuperstarRedirectionModal 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-Snackbar 
-================= 
-### Description 
-undefined 
-### Properties 

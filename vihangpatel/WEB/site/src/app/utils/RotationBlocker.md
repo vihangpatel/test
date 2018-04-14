@@ -1,5 +1,0 @@
-RotationBlocker 
-================= 
-### Description 
-undefined 
-### Properties 

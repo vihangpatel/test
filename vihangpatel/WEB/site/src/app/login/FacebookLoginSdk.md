@@ -1,5 +1,0 @@
-FacebookLoginSdk 
-================= 
-### Description 
-undefined 
-### Properties 

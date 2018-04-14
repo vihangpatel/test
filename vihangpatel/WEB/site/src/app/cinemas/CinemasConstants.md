@@ -1,5 +1,0 @@
-CinemasConstants 
-================= 
-### Description 
-undefined 
-### Properties 

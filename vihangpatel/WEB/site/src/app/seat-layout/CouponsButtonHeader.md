@@ -1,5 +1,0 @@
-CouponsButtonHeader 
-================= 
-### Description 
-undefined 
-### Properties 

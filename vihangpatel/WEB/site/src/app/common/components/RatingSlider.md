@@ -1,5 +1,0 @@
-RatingSlider 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-ShowtimeConstants 
-================= 
-### Description 
-undefined 
-### Properties 

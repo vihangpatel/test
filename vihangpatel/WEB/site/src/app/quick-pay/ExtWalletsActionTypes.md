@@ -1,5 +1,0 @@
-ExtWalletsActionTypes 
-================= 
-### Description 
-undefined 
-### Properties 

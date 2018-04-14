@@ -1,5 +1,0 @@
-OrderSummaryActionCreators 
-================= 
-### Description 
-undefined 
-### Properties 

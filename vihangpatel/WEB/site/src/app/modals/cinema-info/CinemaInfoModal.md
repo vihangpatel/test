@@ -1,5 +1,0 @@
-CinemaInfoModal 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-TicketSplitting 
-================= 
-### Description 
-undefined 
-### Properties 

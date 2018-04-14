@@ -1,5 +1,0 @@
-ShowtimesSelector 
-================= 
-### Description 
-undefined 
-### Properties 

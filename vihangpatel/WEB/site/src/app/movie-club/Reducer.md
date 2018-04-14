@@ -1,5 +1,0 @@
-Reducer 
-================= 
-### Description 
-undefined 
-### Properties 

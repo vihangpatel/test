@@ -1,5 +1,0 @@
-SearchActionCreators 
-================= 
-### Description 
-undefined 
-### Properties 

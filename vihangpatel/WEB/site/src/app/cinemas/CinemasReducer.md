@@ -1,5 +1,0 @@
-CinemasReducer 
-================= 
-### Description 
-undefined 
-### Properties 

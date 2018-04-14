@@ -1,5 +1,0 @@
-DetailedResults 
-================= 
-### Description 
-undefined 
-### Properties 

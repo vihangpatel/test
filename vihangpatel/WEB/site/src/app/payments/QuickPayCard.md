@@ -1,5 +1,0 @@
-QuickPayCard 
-================= 
-### Description 
-undefined 
-### Properties 

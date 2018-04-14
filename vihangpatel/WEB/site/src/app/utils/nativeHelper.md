@@ -1,5 +1,0 @@
-nativeHelper 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-BmsActivationCard 
-================= 
-### Description 
-undefined 
-### Properties 

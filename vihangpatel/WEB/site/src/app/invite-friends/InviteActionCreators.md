@@ -1,5 +1,0 @@
-InviteActionCreators 
-================= 
-### Description 
-undefined 
-### Properties 

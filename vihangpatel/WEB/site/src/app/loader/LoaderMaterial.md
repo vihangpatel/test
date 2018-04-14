@@ -1,5 +1,0 @@
-LoaderMaterial 
-================= 
-### Description 
-undefined 
-### Properties 

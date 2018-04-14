@@ -1,5 +1,0 @@
-ReserveSeatModal 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-RewardPointList 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-SplitCost 
-================= 
-### Description 
-undefined 
-### Properties 

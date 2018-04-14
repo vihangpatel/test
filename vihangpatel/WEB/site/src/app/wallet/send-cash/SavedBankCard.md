@@ -1,5 +1,0 @@
-SavedBankCard 
-================= 
-### Description 
-undefined 
-### Properties 

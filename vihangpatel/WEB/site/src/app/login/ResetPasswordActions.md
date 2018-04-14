@@ -1,5 +1,0 @@
-ResetPasswordActions 
-================= 
-### Description 
-undefined 
-### Properties 

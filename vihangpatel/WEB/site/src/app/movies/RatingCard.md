@@ -1,5 +1,0 @@
-RatingCard 
-================= 
-### Description 
-undefined 
-### Properties 

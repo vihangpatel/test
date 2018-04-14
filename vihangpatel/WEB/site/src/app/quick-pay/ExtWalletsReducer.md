@@ -1,5 +1,0 @@
-ExtWalletsReducer 
-================= 
-### Description 
-undefined 
-### Properties 

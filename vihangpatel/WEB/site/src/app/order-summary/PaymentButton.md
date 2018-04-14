@@ -1,5 +1,0 @@
-PaymentButton 
-================= 
-### Description 
-undefined 
-### Properties 

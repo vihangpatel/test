@@ -1,5 +1,0 @@
-SeatItem 
-================= 
-### Description 
-undefined 
-### Properties 

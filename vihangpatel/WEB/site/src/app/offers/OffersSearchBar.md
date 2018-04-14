@@ -1,5 +1,0 @@
-OffersSearchBar 
-================= 
-### Description 
-undefined 
-### Properties 

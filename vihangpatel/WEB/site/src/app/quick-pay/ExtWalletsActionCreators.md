@@ -1,5 +1,0 @@
-ExtWalletsActionCreators 
-================= 
-### Description 
-undefined 
-### Properties 

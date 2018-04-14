@@ -1,5 +1,0 @@
-OnboardingScreen 
-================= 
-### Description 
-undefined 
-### Properties 

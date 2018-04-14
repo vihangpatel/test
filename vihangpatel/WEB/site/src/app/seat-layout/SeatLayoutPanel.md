@@ -1,5 +1,0 @@
-SeatLayoutPanel 
-================= 
-### Description 
-undefined 
-### Properties 

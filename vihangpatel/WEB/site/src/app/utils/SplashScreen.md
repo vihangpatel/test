@@ -1,5 +1,0 @@
-SplashScreen 
-================= 
-### Description 
-undefined 
-### Properties 

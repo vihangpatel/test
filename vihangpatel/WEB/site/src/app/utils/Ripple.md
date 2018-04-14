@@ -1,5 +1,0 @@
-Ripple 
-================= 
-### Description 
-undefined 
-### Properties 

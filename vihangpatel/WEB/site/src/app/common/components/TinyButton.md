@@ -1,5 +1,0 @@
-TinyButton 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-SuperMovieCard 
-================= 
-### Description 
-undefined 
-### Properties 

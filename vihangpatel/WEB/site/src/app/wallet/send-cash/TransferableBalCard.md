@@ -1,5 +1,0 @@
-TransferableBalCard 
-================= 
-### Description 
-undefined 
-### Properties 

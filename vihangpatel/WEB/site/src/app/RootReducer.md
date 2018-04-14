@@ -1,5 +1,0 @@
-RootReducer 
-================= 
-### Description 
-undefined 
-### Properties 

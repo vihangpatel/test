@@ -1,5 +1,0 @@
-CouponsButtonCard 
-================= 
-### Description 
-undefined 
-### Properties 

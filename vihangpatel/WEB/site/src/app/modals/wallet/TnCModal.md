@@ -1,5 +1,0 @@
-TnCModal 
-================= 
-### Description 
-undefined 
-### Properties 

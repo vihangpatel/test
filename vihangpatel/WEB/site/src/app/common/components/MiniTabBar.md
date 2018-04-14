@@ -1,5 +1,0 @@
-MiniTabBar 
-================= 
-### Description 
-undefined 
-### Properties 

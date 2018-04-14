@@ -1,5 +1,0 @@
-CancellationSuccessCard 
-================= 
-### Description 
-undefined 
-### Properties 

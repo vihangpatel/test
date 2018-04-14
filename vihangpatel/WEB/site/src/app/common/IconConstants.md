@@ -1,5 +1,0 @@
-IconConstants 
-================= 
-### Description 
-undefined 
-### Properties 

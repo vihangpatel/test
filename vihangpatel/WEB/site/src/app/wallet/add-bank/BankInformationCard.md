@@ -1,5 +1,0 @@
-BankInformationCard 
-================= 
-### Description 
-undefined 
-### Properties 

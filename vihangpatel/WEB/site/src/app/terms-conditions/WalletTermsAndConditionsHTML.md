@@ -1,5 +1,0 @@
-WalletTermsAndConditionsHTML 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-QuickPayList 
-================= 
-### Description 
-undefined 
-### Properties 

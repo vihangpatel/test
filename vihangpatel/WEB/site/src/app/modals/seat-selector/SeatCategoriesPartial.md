@@ -1,5 +1,0 @@
-SeatCategoriesPartial 
-================= 
-### Description 
-undefined 
-### Properties 

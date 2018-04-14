@@ -1,5 +1,0 @@
-CodReducer 
-================= 
-### Description 
-undefined 
-### Properties 

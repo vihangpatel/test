@@ -1,5 +1,0 @@
-OffersSelector 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-ImageLoader 
-================= 
-### Description 
-undefined 
-### Properties 

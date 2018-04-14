@@ -1,5 +1,0 @@
-LocatorInfoModal 
-================= 
-### Description 
-undefined 
-### Properties 

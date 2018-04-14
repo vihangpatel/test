@@ -1,5 +1,0 @@
-Switch 
-================= 
-### Description 
-undefined 
-### Properties 

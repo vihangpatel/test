@@ -1,5 +1,0 @@
-InviteTypes 
-================= 
-### Description 
-undefined 
-### Properties 

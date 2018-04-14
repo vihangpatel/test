@@ -1,5 +1,0 @@
-JustForYouReducer 
-================= 
-### Description 
-undefined 
-### Properties 

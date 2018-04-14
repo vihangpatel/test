@@ -1,5 +1,0 @@
-OnboardingDots 
-================= 
-### Description 
-undefined 
-### Properties 

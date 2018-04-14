@@ -1,5 +1,0 @@
-CouponReducer 
-================= 
-### Description 
-undefined 
-### Properties 

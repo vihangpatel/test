@@ -1,5 +1,0 @@
-GeoLocationActionCreators 
-================= 
-### Description 
-undefined 
-### Properties 

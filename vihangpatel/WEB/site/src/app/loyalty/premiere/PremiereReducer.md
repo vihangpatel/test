@@ -1,5 +1,0 @@
-PremiereReducer 
-================= 
-### Description 
-undefined 
-### Properties 

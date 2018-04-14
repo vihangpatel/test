@@ -1,5 +1,0 @@
-ComingSoonCard 
-================= 
-### Description 
-undefined 
-### Properties 

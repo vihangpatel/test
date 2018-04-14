@@ -1,5 +1,0 @@
-IndeterminateLoader 
-================= 
-### Description 
-undefined 
-### Properties 

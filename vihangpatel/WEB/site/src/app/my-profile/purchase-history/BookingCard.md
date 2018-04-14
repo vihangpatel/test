@@ -1,5 +1,0 @@
-BookingCard 
-================= 
-### Description 
-undefined 
-### Properties 

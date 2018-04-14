@@ -1,5 +1,0 @@
-PaynowButton 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-SendToWalletComponent 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-OrderSummaryReducer 
-================= 
-### Description 
-undefined 
-### Properties 

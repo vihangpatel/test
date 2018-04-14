@@ -1,5 +1,0 @@
-PaymentActionCreators 
-================= 
-### Description 
-undefined 
-### Properties 

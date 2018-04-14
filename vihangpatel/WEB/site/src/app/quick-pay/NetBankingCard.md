@@ -1,5 +1,0 @@
-NetBankingCard 
-================= 
-### Description 
-undefined 
-### Properties 

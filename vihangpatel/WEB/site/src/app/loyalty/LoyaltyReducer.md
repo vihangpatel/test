@@ -1,5 +1,0 @@
-LoyaltyReducer 
-================= 
-### Description 
-undefined 
-### Properties 

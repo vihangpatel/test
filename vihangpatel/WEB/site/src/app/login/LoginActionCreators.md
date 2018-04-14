@@ -1,5 +1,0 @@
-LoginActionCreators 
-================= 
-### Description 
-undefined 
-### Properties 

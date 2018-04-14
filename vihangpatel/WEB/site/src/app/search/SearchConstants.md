@@ -1,5 +1,0 @@
-SearchConstants 
-================= 
-### Description 
-undefined 
-### Properties 

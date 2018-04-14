@@ -1,5 +1,0 @@
-PopularCities 
-================= 
-### Description 
-undefined 
-### Properties 

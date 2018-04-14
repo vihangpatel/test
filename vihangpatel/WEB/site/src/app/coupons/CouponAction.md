@@ -1,5 +1,0 @@
-CouponAction 
-================= 
-### Description 
-undefined 
-### Properties 

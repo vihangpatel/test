@@ -1,5 +1,0 @@
-MoviesSelector 
-================= 
-### Description 
-undefined 
-### Properties 

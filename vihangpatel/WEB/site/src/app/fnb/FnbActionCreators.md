@@ -1,5 +1,0 @@
-FnbActionCreators 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-CheckBox 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,0 +1,5 @@
+getVisibleItemBounds 
+================= 
+### Description 
+undefined 
+### Properties 

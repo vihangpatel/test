@@ -1,5 +1,0 @@
-ShowtimesReducer 
-================= 
-### Description 
-undefined 
-### Properties 

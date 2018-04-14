@@ -1,5 +1,0 @@
-PaginationDot 
-================= 
-### Description 
-undefined 
-### Properties 

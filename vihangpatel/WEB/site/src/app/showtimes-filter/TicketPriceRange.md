@@ -1,5 +1,0 @@
-TicketPriceRange 
-================= 
-### Description 
-undefined 
-### Properties 

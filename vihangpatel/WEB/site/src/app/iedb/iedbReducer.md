@@ -1,5 +1,0 @@
-iedbReducer 
-================= 
-### Description 
-undefined 
-### Properties 

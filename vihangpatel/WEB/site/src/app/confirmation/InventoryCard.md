@@ -1,5 +1,0 @@
-InventoryCard 
-================= 
-### Description 
-undefined 
-### Properties 

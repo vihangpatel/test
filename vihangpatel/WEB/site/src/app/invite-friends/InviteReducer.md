@@ -1,5 +1,0 @@
-InviteReducer 
-================= 
-### Description 
-undefined 
-### Properties 

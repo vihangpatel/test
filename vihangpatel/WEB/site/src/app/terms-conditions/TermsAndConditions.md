@@ -1,5 +1,0 @@
-TermsAndConditions 
-================= 
-### Description 
-undefined 
-### Properties 

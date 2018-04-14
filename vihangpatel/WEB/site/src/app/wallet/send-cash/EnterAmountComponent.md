@@ -1,5 +1,0 @@
-EnterAmountComponent 
-================= 
-### Description 
-undefined 
-### Properties 

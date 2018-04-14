@@ -1,5 +1,0 @@
-ActionCreators 
-================= 
-### Description 
-undefined 
-### Properties 

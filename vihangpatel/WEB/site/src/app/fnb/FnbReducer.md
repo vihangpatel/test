@@ -1,5 +1,0 @@
-FnbReducer 
-================= 
-### Description 
-undefined 
-### Properties 

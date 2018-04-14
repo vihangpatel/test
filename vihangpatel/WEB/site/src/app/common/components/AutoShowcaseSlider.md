@@ -1,5 +1,0 @@
-AutoShowcaseSlider 
-================= 
-### Description 
-undefined 
-### Properties 

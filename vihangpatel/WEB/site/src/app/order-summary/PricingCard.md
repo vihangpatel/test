@@ -1,5 +1,0 @@
-PricingCard 
-================= 
-### Description 
-undefined 
-### Properties 

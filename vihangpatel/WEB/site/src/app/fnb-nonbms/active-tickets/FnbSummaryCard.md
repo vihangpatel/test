@@ -1,5 +1,0 @@
-FnbSummaryCard 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-MovieClubCardCS 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-SummaryCard 
-================= 
-### Description 
-undefined 
-### Properties 

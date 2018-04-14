@@ -1,5 +1,0 @@
-AccountNotification 
-================= 
-### Description 
-undefined 
-### Properties 

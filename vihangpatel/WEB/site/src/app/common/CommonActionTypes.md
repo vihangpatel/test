@@ -1,5 +1,0 @@
-CommonActionTypes 
-================= 
-### Description 
-undefined 
-### Properties 

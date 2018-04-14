@@ -1,5 +1,0 @@
-ResetPasswordActionCreators 
-================= 
-### Description 
-undefined 
-### Properties 

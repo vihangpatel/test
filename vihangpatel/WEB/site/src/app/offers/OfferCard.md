@@ -1,5 +1,0 @@
-OfferCard 
-================= 
-### Description 
-undefined 
-### Properties 

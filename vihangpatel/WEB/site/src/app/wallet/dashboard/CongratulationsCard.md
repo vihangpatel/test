@@ -1,5 +1,0 @@
-CongratulationsCard 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-LoginTermsAndConditionsHTML 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-CinemasSearch 
-================= 
-### Description 
-undefined 
-### Properties 

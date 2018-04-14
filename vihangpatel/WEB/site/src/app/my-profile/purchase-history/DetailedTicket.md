@@ -1,5 +1,0 @@
-DetailedTicket 
-================= 
-### Description 
-undefined 
-### Properties 

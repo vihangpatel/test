@@ -1,5 +1,0 @@
-LeaveBmsModal 
-================= 
-### Description 
-undefined 
-### Properties 

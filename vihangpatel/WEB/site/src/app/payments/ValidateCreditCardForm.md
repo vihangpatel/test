@@ -1,5 +1,0 @@
-ValidateCreditCardForm 
-================= 
-### Description 
-undefined 
-### Properties 

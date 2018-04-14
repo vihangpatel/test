@@ -1,5 +1,0 @@
-CouponsFilters 
-================= 
-### Description 
-undefined 
-### Properties 

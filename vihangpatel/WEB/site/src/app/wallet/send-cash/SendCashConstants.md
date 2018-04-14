@@ -1,5 +1,0 @@
-SendCashConstants 
-================= 
-### Description 
-undefined 
-### Properties 

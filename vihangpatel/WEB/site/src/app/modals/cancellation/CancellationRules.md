@@ -1,5 +1,0 @@
-CancellationRules 
-================= 
-### Description 
-undefined 
-### Properties 

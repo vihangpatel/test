@@ -1,5 +1,0 @@
-VenueShowtimesReducer 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-SecondaryMenu 
-================= 
-### Description 
-undefined 
-### Properties 

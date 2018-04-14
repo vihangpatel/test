@@ -1,5 +1,0 @@
-OnboardingReducer 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-AddPBRewardPointsOption 
-================= 
-### Description 
-undefined 
-### Properties 

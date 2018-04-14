@@ -1,5 +1,0 @@
-GiftVoucherCard 
-================= 
-### Description 
-undefined 
-### Properties 

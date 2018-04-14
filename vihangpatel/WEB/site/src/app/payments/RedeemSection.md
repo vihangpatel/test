@@ -1,5 +1,0 @@
-RedeemSection 
-================= 
-### Description 
-undefined 
-### Properties 

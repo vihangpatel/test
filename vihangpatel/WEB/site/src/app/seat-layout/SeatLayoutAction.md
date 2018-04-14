@@ -1,5 +1,0 @@
-SeatLayoutAction 
-================= 
-### Description 
-undefined 
-### Properties 

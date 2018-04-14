@@ -1,5 +1,0 @@
-PaymentActionTypes 
-================= 
-### Description 
-undefined 
-### Properties 

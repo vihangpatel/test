@@ -1,5 +1,0 @@
-OtherCityItem 
-================= 
-### Description 
-undefined 
-### Properties 

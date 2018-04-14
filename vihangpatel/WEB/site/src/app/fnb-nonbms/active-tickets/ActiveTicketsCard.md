@@ -1,5 +1,0 @@
-ActiveTicketsCard 
-================= 
-### Description 
-undefined 
-### Properties 

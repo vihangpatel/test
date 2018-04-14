@@ -1,5 +1,0 @@
-PricingCardFnB 
-================= 
-### Description 
-undefined 
-### Properties 

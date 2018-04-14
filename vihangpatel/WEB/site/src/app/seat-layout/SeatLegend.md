@@ -1,5 +1,0 @@
-SeatLegend 
-================= 
-### Description 
-undefined 
-### Properties 

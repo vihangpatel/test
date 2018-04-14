@@ -1,5 +1,0 @@
-ResetPasswordActionTypes 
-================= 
-### Description 
-undefined 
-### Properties 

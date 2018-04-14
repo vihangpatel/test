@@ -1,5 +1,0 @@
-MoviesReducer 
-================= 
-### Description 
-undefined 
-### Properties 

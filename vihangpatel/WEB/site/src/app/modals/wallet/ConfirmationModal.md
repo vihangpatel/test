@@ -1,5 +1,0 @@
-ConfirmationModal 
-================= 
-### Description 
-undefined 
-### Properties 

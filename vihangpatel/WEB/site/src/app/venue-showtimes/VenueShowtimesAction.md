@@ -1,5 +1,0 @@
-VenueShowtimesAction 
-================= 
-### Description 
-undefined 
-### Properties 

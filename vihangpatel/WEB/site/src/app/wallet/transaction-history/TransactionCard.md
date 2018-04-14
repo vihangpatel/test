@@ -1,5 +1,0 @@
-TransactionCard 
-================= 
-### Description 
-undefined 
-### Properties 

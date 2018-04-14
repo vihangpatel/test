@@ -1,5 +1,0 @@
-ConfirmButton 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-PopularCityItem 
-================= 
-### Description 
-undefined 
-### Properties 

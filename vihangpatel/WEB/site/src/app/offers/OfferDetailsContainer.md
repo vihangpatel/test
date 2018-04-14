@@ -1,5 +1,0 @@
-OfferDetailsContainer 
-================= 
-### Description 
-undefined 
-### Properties 

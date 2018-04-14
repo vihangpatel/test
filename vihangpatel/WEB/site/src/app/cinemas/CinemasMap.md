@@ -1,5 +1,0 @@
-CinemasMap 
-================= 
-### Description 
-undefined 
-### Properties 

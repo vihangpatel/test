@@ -1,5 +1,0 @@
-GetSVG 
-================= 
-### Description 
-undefined 
-### Properties 

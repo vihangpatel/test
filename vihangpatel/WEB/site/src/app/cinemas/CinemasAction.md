@@ -1,5 +1,0 @@
-CinemasAction 
-================= 
-### Description 
-undefined 
-### Properties 

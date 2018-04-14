@@ -1,5 +1,0 @@
-MoreRecommendationsCard 
-================= 
-### Description 
-undefined 
-### Properties 

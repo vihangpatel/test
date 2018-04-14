@@ -1,5 +1,0 @@
-ComingSoonReducer 
-================= 
-### Description 
-undefined 
-### Properties 

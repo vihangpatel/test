@@ -1,5 +1,0 @@
-HamburgerMenu 
-================= 
-### Description 
-undefined 
-### Properties 

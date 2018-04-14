@@ -1,5 +1,0 @@
-BottomNav 
-================= 
-### Description 
-undefined 
-### Properties 

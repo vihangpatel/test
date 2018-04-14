@@ -1,5 +1,0 @@
-SocialLogin 
-================= 
-### Description 
-undefined 
-### Properties 

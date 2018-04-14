@@ -1,5 +1,0 @@
-ShowtimesCard 
-================= 
-### Description 
-undefined 
-### Properties 

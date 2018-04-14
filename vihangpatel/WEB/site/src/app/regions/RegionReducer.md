@@ -1,5 +1,0 @@
-RegionReducer 
-================= 
-### Description 
-undefined 
-### Properties 

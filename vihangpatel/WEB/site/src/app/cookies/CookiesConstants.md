@@ -1,5 +1,0 @@
-CookiesConstants 
-================= 
-### Description 
-undefined 
-### Properties 

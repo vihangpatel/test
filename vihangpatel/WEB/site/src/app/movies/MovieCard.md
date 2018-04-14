@@ -1,5 +1,0 @@
-MovieCard 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-CinemaCardItem 
-================= 
-### Description 
-undefined 
-### Properties 

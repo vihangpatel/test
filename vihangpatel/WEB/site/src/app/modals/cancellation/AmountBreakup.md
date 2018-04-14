@@ -1,5 +1,0 @@
-AmountBreakup 
-================= 
-### Description 
-undefined 
-### Properties 

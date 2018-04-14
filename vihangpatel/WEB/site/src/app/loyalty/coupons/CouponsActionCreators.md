@@ -1,5 +1,0 @@
-CouponsActionCreators 
-================= 
-### Description 
-undefined 
-### Properties 

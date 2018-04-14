@@ -1,5 +1,0 @@
-PlaceholderLoaderMoviesPoster 
-================= 
-### Description 
-undefined 
-### Properties 

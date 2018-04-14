@@ -1,5 +1,0 @@
-OtherPaymentOptions 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-NameEmailComponent 
-================= 
-### Description 
-undefined 
-### Properties 

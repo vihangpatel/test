@@ -1,5 +1,0 @@
-SeatLayoutReducer 
-================= 
-### Description 
-undefined 
-### Properties 

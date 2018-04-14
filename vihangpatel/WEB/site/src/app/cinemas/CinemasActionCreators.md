@@ -1,5 +1,0 @@
-CinemasActionCreators 
-================= 
-### Description 
-undefined 
-### Properties 

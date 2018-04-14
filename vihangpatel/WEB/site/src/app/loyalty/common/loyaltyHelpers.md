@@ -1,5 +1,0 @@
-loyaltyHelpers 
-================= 
-### Description 
-undefined 
-### Properties 

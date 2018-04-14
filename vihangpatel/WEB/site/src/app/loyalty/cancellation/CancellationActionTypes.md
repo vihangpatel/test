@@ -1,5 +1,0 @@
-CancellationActionTypes 
-================= 
-### Description 
-undefined 
-### Properties 

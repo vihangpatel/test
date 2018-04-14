@@ -1,5 +1,0 @@
-OffersListings 
-================= 
-### Description 
-undefined 
-### Properties 

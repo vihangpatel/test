@@ -1,5 +1,0 @@
-PaymentTypeContainer 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-ShowtimesActionCreators 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-TrendingTrailerCard 
-================= 
-### Description 
-undefined 
-### Properties 

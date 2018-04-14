@@ -1,5 +1,0 @@
-CancellationPricingCard 
-================= 
-### Description 
-undefined 
-### Properties 

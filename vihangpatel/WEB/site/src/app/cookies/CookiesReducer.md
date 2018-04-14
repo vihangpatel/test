@@ -1,5 +1,0 @@
-CookiesReducer 
-================= 
-### Description 
-undefined 
-### Properties 

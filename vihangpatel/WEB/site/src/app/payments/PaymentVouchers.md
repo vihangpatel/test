@@ -1,5 +1,0 @@
-PaymentVouchers 
-================= 
-### Description 
-undefined 
-### Properties 

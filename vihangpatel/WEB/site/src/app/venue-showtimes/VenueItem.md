@@ -1,5 +1,0 @@
-VenueItem 
-================= 
-### Description 
-undefined 
-### Properties 

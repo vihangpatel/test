@@ -1,5 +1,0 @@
-EditCCDBCard 
-================= 
-### Description 
-undefined 
-### Properties 

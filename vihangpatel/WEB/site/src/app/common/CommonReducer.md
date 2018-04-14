@@ -1,5 +1,0 @@
-CommonReducer 
-================= 
-### Description 
-undefined 
-### Properties 

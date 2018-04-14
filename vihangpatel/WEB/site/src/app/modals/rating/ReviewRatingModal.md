@@ -1,5 +1,0 @@
-ReviewRatingModal 
-================= 
-### Description 
-undefined 
-### Properties 

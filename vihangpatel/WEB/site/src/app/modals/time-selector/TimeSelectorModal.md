@@ -1,5 +1,0 @@
-TimeSelectorModal 
-================= 
-### Description 
-undefined 
-### Properties 

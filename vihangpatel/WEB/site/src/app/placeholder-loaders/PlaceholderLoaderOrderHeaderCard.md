@@ -1,5 +1,0 @@
-PlaceholderLoaderOrderHeaderCard 
-================= 
-### Description 
-undefined 
-### Properties 

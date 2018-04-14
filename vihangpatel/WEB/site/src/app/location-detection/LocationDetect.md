@@ -1,5 +1,0 @@
-LocationDetect 
-================= 
-### Description 
-undefined 
-### Properties 

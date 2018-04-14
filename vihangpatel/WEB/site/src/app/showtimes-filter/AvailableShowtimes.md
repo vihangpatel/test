@@ -1,5 +1,0 @@
-AvailableShowtimes 
-================= 
-### Description 
-undefined 
-### Properties 

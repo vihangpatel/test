@@ -1,5 +1,0 @@
-SavedBankComponent 
-================= 
-### Description 
-undefined 
-### Properties 

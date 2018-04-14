@@ -1,5 +1,0 @@
-SplitTicket 
-================= 
-### Description 
-undefined 
-### Properties 

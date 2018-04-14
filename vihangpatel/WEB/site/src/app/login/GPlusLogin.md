@@ -1,5 +1,0 @@
-GPlusLogin 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-CookiesActionCreators 
-================= 
-### Description 
-undefined 
-### Properties 

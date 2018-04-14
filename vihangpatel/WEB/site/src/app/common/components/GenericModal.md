@@ -1,5 +1,0 @@
-GenericModal 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-PaymentActions 
-================= 
-### Description 
-undefined 
-### Properties 

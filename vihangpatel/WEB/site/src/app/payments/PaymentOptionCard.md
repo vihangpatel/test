@@ -1,5 +1,0 @@
-PaymentOptionCard 
-================= 
-### Description 
-undefined 
-### Properties 

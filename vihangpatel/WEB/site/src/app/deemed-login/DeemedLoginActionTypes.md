@@ -1,5 +1,0 @@
-DeemedLoginActionTypes 
-================= 
-### Description 
-undefined 
-### Properties 

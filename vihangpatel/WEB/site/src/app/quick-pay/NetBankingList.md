@@ -1,5 +1,0 @@
-NetBankingList 
-================= 
-### Description 
-undefined 
-### Properties 

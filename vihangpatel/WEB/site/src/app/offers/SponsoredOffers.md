@@ -1,5 +1,0 @@
-SponsoredOffers 
-================= 
-### Description 
-undefined 
-### Properties 

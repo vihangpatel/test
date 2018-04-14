@@ -1,5 +1,0 @@
-TrendingCard 
-================= 
-### Description 
-undefined 
-### Properties 

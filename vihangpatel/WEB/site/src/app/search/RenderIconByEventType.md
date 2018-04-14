@@ -1,5 +1,0 @@
-RenderIconByEventType 
-================= 
-### Description 
-undefined 
-### Properties 

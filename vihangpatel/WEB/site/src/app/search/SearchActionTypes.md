@@ -1,5 +1,0 @@
-SearchActionTypes 
-================= 
-### Description 
-undefined 
-### Properties 

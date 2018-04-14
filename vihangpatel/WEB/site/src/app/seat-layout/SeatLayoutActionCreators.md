@@ -1,5 +1,0 @@
-SeatLayoutActionCreators 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-ParseSeatLayout 
-================= 
-### Description 
-undefined 
-### Properties 

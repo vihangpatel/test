@@ -1,5 +1,0 @@
-StatusCard 
-================= 
-### Description 
-undefined 
-### Properties 

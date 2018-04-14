@@ -1,5 +1,0 @@
-Showcase 
-================= 
-### Description 
-undefined 
-### Properties 

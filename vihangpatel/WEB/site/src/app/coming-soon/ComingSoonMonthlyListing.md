@@ -1,5 +1,0 @@
-ComingSoonMonthlyListing 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-SeatLayoutHeader 
-================= 
-### Description 
-undefined 
-### Properties 

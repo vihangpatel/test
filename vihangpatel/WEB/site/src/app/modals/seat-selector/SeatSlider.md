@@ -1,5 +1,0 @@
-SeatSlider 
-================= 
-### Description 
-undefined 
-### Properties 

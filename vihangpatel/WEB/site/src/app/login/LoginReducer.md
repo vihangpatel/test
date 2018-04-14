@@ -1,5 +1,0 @@
-LoginReducer 
-================= 
-### Description 
-undefined 
-### Properties 

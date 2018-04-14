@@ -1,5 +1,0 @@
-CinemasActionTypes 
-================= 
-### Description 
-undefined 
-### Properties 

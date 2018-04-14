@@ -1,5 +1,0 @@
-MovieClubCardNS 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-ToggleBar 
-================= 
-### Description 
-undefined 
-### Properties 
