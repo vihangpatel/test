@@ -1,5 +1,0 @@
-MapCanvas 
-================= 
-### Description 
-undefined 
-### Properties 

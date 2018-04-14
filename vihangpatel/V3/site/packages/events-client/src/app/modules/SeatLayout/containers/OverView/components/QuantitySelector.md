@@ -1,5 +1,0 @@
-QuantitySelector 
-================= 
-### Description 
-undefined 
-### Properties 

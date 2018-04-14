@@ -1,5 +1,0 @@
-Artists 
-================= 
-### Description 
-undefined 
-### Properties 

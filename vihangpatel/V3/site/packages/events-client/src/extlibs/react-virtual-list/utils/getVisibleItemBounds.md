@@ -1,5 +1,0 @@
-getVisibleItemBounds 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-throttleWithRAF 
-================= 
-### Description 
-undefined 
-### Properties 

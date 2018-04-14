@@ -1,5 +1,0 @@
-ExpandableWidget 
-================= 
-### Description 
-undefined 
-### Properties 

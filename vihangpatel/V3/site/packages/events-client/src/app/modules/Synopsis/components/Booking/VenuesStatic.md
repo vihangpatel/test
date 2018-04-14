@@ -1,5 +1,0 @@
-VenuesStatic 
-================= 
-### Description 
-undefined 
-### Properties 

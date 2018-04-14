@@ -1,5 +1,0 @@
-venueDetail 
-================= 
-### Description 
-undefined 
-### Properties 

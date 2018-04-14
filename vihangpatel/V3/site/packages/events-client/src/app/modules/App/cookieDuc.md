@@ -1,5 +1,0 @@
-cookieDuc 
-================= 
-### Description 
-undefined 
-### Properties 

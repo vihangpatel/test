@@ -1,5 +1,0 @@
-TicketSelector 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-CheckBoxWidget 
-================= 
-### Description 
-undefined 
-### Properties 

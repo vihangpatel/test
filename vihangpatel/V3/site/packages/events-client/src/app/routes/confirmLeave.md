@@ -1,5 +1,0 @@
-confirmLeave 
-================= 
-### Description 
-undefined 
-### Properties 

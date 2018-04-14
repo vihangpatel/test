@@ -1,5 +1,0 @@
-DecidingListingCards 
-================= 
-### Description 
-undefined 
-### Properties 

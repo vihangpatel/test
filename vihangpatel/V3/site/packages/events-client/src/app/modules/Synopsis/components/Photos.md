@@ -1,5 +1,0 @@
-Photos 
-================= 
-### Description 
-undefined 
-### Properties 

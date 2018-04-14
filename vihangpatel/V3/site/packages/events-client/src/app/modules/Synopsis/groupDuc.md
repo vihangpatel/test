@@ -1,5 +1,0 @@
-groupDuc 
-================= 
-### Description 
-undefined 
-### Properties 

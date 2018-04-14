@@ -1,5 +1,0 @@
-ExpandableHeader 
-================= 
-### Description 
-undefined 
-### Properties 

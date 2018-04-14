@@ -1,5 +1,0 @@
-EventBanner 
-================= 
-### Description 
-undefined 
-### Properties 

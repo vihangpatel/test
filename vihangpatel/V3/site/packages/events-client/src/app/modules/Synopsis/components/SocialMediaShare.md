@@ -1,5 +1,0 @@
-SocialMediaShare 
-================= 
-### Description 
-undefined 
-### Properties 

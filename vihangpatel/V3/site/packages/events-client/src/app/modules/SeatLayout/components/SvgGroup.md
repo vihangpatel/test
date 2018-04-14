@@ -1,5 +1,0 @@
-SvgGroup 
-================= 
-### Description 
-undefined 
-### Properties 

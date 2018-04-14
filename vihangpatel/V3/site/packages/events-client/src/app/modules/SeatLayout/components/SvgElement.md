@@ -1,5 +1,0 @@
-SvgElement 
-================= 
-### Description 
-undefined 
-### Properties 

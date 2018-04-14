@@ -1,5 +1,0 @@
-DatePillsSetWidget 
-================= 
-### Description 
-undefined 
-### Properties 

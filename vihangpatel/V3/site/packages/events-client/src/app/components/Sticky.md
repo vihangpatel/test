@@ -1,5 +1,0 @@
-Sticky 
-================= 
-### Description 
-undefined 
-### Properties 

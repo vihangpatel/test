@@ -1,5 +1,0 @@
-VenueCards 
-================= 
-### Description 
-undefined 
-### Properties 

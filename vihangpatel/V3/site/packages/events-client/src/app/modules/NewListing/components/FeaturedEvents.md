@@ -1,5 +1,0 @@
-FeaturedEvents 
-================= 
-### Description 
-undefined 
-### Properties 

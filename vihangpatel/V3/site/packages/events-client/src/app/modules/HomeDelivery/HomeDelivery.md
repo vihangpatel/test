@@ -1,5 +1,0 @@
-HomeDelivery 
-================= 
-### Description 
-undefined 
-### Properties 

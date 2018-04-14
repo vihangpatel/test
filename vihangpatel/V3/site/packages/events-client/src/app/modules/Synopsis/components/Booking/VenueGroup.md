@@ -1,5 +1,0 @@
-VenueGroup 
-================= 
-### Description 
-undefined 
-### Properties 

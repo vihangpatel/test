@@ -1,5 +1,0 @@
-PillsSetWidget 
-================= 
-### Description 
-undefined 
-### Properties 

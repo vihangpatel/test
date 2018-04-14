@@ -1,5 +1,0 @@
-TnC 
-================= 
-### Description 
-undefined 
-### Properties 

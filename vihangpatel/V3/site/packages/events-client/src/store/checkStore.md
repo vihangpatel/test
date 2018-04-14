@@ -1,5 +1,0 @@
-checkStore 
-================= 
-### Description 
-undefined 
-### Properties 

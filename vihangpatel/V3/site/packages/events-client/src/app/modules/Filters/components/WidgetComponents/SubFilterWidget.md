@@ -1,5 +1,0 @@
-SubFilterWidget 
-================= 
-### Description 
-undefined 
-### Properties 

@@ -1,5 +1,0 @@
-defaultMapVirtualToProps 
-================= 
-### Description 
-undefined 
-### Properties 

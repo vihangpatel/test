@@ -1,5 +1,0 @@
-SeatLayout 
-================= 
-### Description 
-undefined 
-### Properties 

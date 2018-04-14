@@ -1,5 +1,0 @@
-PopUpTransition 
-================= 
-### Description 
-undefined 
-### Properties 

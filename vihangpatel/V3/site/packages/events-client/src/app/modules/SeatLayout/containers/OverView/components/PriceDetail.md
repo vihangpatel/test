@@ -1,5 +1,0 @@
-PriceDetail 
-================= 
-### Description 
-undefined 
-### Properties 

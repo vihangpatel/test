@@ -1,5 +1,0 @@
-combinedReducers 
-================= 
-### Description 
-undefined 
-### Properties 

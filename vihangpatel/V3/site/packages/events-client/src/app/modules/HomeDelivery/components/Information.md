@@ -1,5 +1,0 @@
-Information 
-================= 
-### Description 
-undefined 
-### Properties 

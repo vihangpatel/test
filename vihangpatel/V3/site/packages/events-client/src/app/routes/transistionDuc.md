@@ -1,5 +1,0 @@
-transistionDuc 
-================= 
-### Description 
-undefined 
-### Properties 

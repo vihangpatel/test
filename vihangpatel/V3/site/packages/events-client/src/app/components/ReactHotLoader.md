@@ -1,5 +1,0 @@
-ReactHotLoader 
-================= 
-### Description 
-undefined 
-### Properties 

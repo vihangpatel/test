@@ -1,5 +1,0 @@
-CategoryDetail 
-================= 
-### Description 
-undefined 
-### Properties 

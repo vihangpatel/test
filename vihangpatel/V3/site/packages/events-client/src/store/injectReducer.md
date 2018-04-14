@@ -1,5 +1,0 @@
-injectReducer 
-================= 
-### Description 
-undefined 
-### Properties 

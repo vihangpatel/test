@@ -1,5 +1,0 @@
-RegistrationSuccess 
-================= 
-### Description 
-undefined 
-### Properties 

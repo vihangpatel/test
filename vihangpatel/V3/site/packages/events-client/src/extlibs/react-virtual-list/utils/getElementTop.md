@@ -1,5 +1,0 @@
-getElementTop 
-================= 
-### Description 
-undefined 
-### Properties 

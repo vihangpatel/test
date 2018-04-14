@@ -1,5 +1,0 @@
-SvgBlock 
-================= 
-### Description 
-undefined 
-### Properties 
