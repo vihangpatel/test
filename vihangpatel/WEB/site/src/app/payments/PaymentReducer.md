@@ -1,0 +1,5 @@
+PaymentReducer 
+================= 
+### Description 
+undefined 
+### Properties 

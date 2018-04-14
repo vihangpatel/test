@@ -1,0 +1,5 @@
+PlaceholderLoaderOrderDetailCard 
+================= 
+### Description 
+undefined 
+### Properties 

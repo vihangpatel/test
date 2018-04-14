@@ -1,0 +1,5 @@
+SeatLayoutActionTypes 
+================= 
+### Description 
+undefined 
+### Properties 

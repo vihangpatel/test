@@ -1,0 +1,5 @@
+OfferDetailsContainer 
+================= 
+### Description 
+undefined 
+### Properties 

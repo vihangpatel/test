@@ -1,0 +1,5 @@
+TrendingTrailerCard 
+================= 
+### Description 
+undefined 
+### Properties 

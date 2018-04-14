@@ -1,0 +1,5 @@
+OffersSelector 
+================= 
+### Description 
+undefined 
+### Properties 

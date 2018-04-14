@@ -1,0 +1,5 @@
+SearchReducer 
+================= 
+### Description 
+undefined 
+### Properties 

@@ -1,0 +1,5 @@
+ConfirmationReducer 
+================= 
+### Description 
+undefined 
+### Properties 
